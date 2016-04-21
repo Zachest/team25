@@ -8,8 +8,7 @@ MEMBER 3 Anas Fares
  
 MEMBER 4 Vicky ma
 
-<<<<<<< HEAD
 MEMBER 5 Lord Gaben
-=======
+
 drtfkgluyt
->>>>>>> origin/master
+
